@@ -678,113 +678,113 @@ MonoBehaviour:
   objectName: {fileID: 1549535290}
   alphabetText: {fileID: 1113170440}
   letterImage: {fileID: 1933444236}
-  openingWords: {fileID: 8300000, guid: 98f524fc64a7c42678028f6b6e7efbda, type: 3}
-  tryAgainWord: {fileID: 8300000, guid: e6316ff117a3a471eaeb3843d77eafde, type: 3}
+  openingWords: {fileID: 8300000, guid: e1c7e3541960f1e4da287088131fdd6e, type: 3}
+  tryAgainWord: {fileID: 8300000, guid: 46dcd88c863eac944b5a07c18eca5ef3, type: 3}
   letterA: {fileID: 8300000, guid: 93665fc5c22594c5bbae324fd93c4192, type: 3}
   congratWords:
-  - {fileID: 8300000, guid: 43186d9a886614385a6ae8cedb925122, type: 3}
-  - {fileID: 8300000, guid: ac5a823798e4a4e9b81447353ba74ca6, type: 3}
-  - {fileID: 8300000, guid: b6816d9ce86714eed9fff708641b1847, type: 3}
-  - {fileID: 8300000, guid: 3d927f6cb164a423c9329f793920171d, type: 3}
+  - {fileID: 8300000, guid: b2de808d0ee2cf44bae731a68fd73850, type: 3}
+  - {fileID: 8300000, guid: d1bc429c7fb1ef44c86dfe878b1ed05f, type: 3}
+  - {fileID: 8300000, guid: abbc87ce95fdfaa4eb5ddf1add6bcc8a, type: 3}
+  - {fileID: 8300000, guid: f47ac40bc1923564b929fb678d2c1ae9, type: 3}
   correctWordList:
   - alphabet: "\u0623"
     correctWords:
     - objectName: "\u0627\u0631\u0646\u0628"
       alphabet: "\u0623"
       objectImage: {fileID: 21300000, guid: 662d51176575cc1499594a6e28389cc1, type: 3}
-      correctAnswer: {fileID: 8300000, guid: a0007a5e2f9aa48c6867ffba9cb85ea7, type: 3}
+      correctAnswer: {fileID: 8300000, guid: a16867c6996b6914d84d32ecfb1bb59e, type: 3}
   - alphabet: "\u0628"
     correctWords:
     - objectName: "\u0628\u0637\u064A\u062E"
       alphabet: "\u0628"
       objectImage: {fileID: 21300000, guid: a6670f458f8753841af6107449826b53, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 42fe423ebdc35405b830445798339eb2, type: 3}
+      correctAnswer: {fileID: 0}
     - objectName: "\u0628\u0642\u0631\u0629"
       alphabet: "\u0628"
       objectImage: {fileID: 21300000, guid: f831c22852d8a7c498030afca4937438, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 892614c053de54044810a7426ecc89b9, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 646507f58ae916b4c92be9786271d3eb, type: 3}
     - objectName: "\u0628\u0637\u0629"
       alphabet: "\u0628"
       objectImage: {fileID: 21300000, guid: 9e48ea6d0e8e66b4295df4a946c2b6f0, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 13b87478b96694e95aa1c68eb1796817, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 1cf8ac94c924d754fb2ecdb30247aaf5, type: 3}
     - objectName: "\u0628\u0637\u0631\u064A\u0642"
       alphabet: "\u0628"
       objectImage: {fileID: 21300000, guid: 36bfaf57f68256244bab1a765d665ea0, type: 3}
-      correctAnswer: {fileID: 8300000, guid: b7b40413ec5fe427eb98a50d73ce4167, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 459fa2a0d5328a44fa85ad49fede63d7, type: 3}
   - alphabet: "\u062A"
     correctWords:
     - objectName: "\u062A\u0645\u0633\u0627\u062D"
       alphabet: "\u062A"
       objectImage: {fileID: 21300000, guid: fb06f482bbf92c24e9d990bd2113773b, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 216cd652c66f44d38b00afe9abdd792f, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 15908eef22406484e896e086f68bc353, type: 3}
   - alphabet: "\u062B"
     correctWords:
     - objectName: "\u062B\u0639\u0628\u0627\u0646"
       alphabet: "\u062B"
       objectImage: {fileID: 21300000, guid: 9aa85c3a4bb2de542acc497310960c4c, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 82afeed81b206497bb34ed5f2ab3ec91, type: 3}
+      correctAnswer: {fileID: 8300000, guid: deaec6763b49fc94bb10084f32f9e5a2, type: 3}
     - objectName: "\u062B\u0644\u0627\u0627\u062C\u0629"
       alphabet: "\u062B"
       objectImage: {fileID: 21300000, guid: 1a182ead7964eee4891a655b7d7a620d, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 0fa205c229a2b454b825a07b4b39486a, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 3712d901a0d710f4d96b70dc8813a983, type: 3}
   - alphabet: "\u062C"
     correctWords:
     - objectName: "\u062C\u0645\u0644"
       alphabet: "\u062C"
       objectImage: {fileID: 21300000, guid: 6f12835a5091c8f4692438af2184feff, type: 3}
-      correctAnswer: {fileID: 8300000, guid: f439fd8558d1e487c936422a3d4c15ac, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 3e871de2e725bab4380054ffa79e660f, type: 3}
   - alphabet: "\u062D"
     correctWords:
     - objectName: "\u062D\u0635\u0627\u0646"
       alphabet: "\u062D"
       objectImage: {fileID: 21300000, guid: b8b642858f3cb204b94e66658fc614c0, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 72b325b4d1d6f427dbb4c22b8322da25, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 9cd17a8f066ef844fb315d6bbf3e4824, type: 3}
     - objectName: "\u062D\u0645\u0627\u0631"
       alphabet: "\u062D"
       objectImage: {fileID: 21300000, guid: 9e17025b54d9fe64e99839c8830c8c1b, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 6b61a793aa2e14238a6aaf27a115e24b, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 5100bba2370be63459354c6712fddfeb, type: 3}
     - objectName: "\u062D\u0630\u0627\u0621"
       alphabet: "\u062D"
       objectImage: {fileID: 21300000, guid: e533da3f601acc24fa3a720795e19277, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 6b61a793aa2e14238a6aaf27a115e24b, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 32efc3cb2c067e042b1a688f972be792, type: 3}
     - objectName: "\u062D\u0648\u062A"
       alphabet: "\u062D"
       objectImage: {fileID: 21300000, guid: 476476b0a98ce3141833976cd2c904c7, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 6b61a793aa2e14238a6aaf27a115e24b, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 63d9f90affb451742ad05b9950537e0c, type: 3}
   - alphabet: "\u062E"
     correctWords:
     - objectName: "\u062E\u0631\u0648\u0641"
       alphabet: "\u062E"
       objectImage: {fileID: 21300000, guid: 30ca1f63028a83d49b5f7dade490e9d3, type: 3}
-      correctAnswer: {fileID: 8300000, guid: f5e5905979b6f4ce6b9fcaa4c1380726, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 5b60063c534562d4885889df5641eb37, type: 3}
   - alphabet: "\u062F"
     correctWords:
     - objectName: "\u062F\u0648\u0644\u0641\u064A\u0646"
       alphabet: "\u062F"
       objectImage: {fileID: 21300000, guid: e1f4643bb2297b54daf039391e629f10, type: 3}
-      correctAnswer: {fileID: 8300000, guid: cd47b285679a5413b9e3134dbe88f1ea, type: 3}
+      correctAnswer: {fileID: 8300000, guid: e0039125137422249bde06f7285fab38, type: 3}
     - objectName: "\u062F\u064A\u0643"
       alphabet: "\u062F"
       objectImage: {fileID: 21300000, guid: 4c90116ffab357145a66921009b35f79, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 8619c0086289d462899149f8258e856b, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 9d10cec6f81197b48bab4dcee597d499, type: 3}
   - alphabet: "\u0630"
     correctWords:
     - objectName: "\u0630\u0631\u0629"
       alphabet: "\u0630"
       objectImage: {fileID: 21300000, guid: 2dcdea7be0353654792c3c54d9389216, type: 3}
-      correctAnswer: {fileID: 8300000, guid: e9e19ed7e13034996baeb7aabcbb0e8f, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 9ff663bd297209447b897cdf9872d81c, type: 3}
   - alphabet: "\u0631"
     correctWords:
     - objectName: "\u0631\u0645\u0627\u0646"
       alphabet: "\u0631"
       objectImage: {fileID: 21300000, guid: 8abc3cced7909794ab8521e024d9af97, type: 3}
-      correctAnswer: {fileID: 8300000, guid: ae58b042dab6b44c393527c068b813e1, type: 3}
+      correctAnswer: {fileID: 8300000, guid: b49e5ec10049a184482effe0e8cf4305, type: 3}
   - alphabet: "\u0632"
     correctWords:
     - objectName: "\u0632\u0631\u0627\u0641\u0629"
       alphabet: "\u0632"
       objectImage: {fileID: 21300000, guid: 20b9ba1399a454d41a40975b76acf829, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 67640f30d8ef84f40b59ca80b1a9abf1, type: 3}
+      correctAnswer: {fileID: 8300000, guid: d533f13a129845646a30b4304be861ca, type: 3}
   - alphabet: "\u0633"
     correctWords:
     - objectName: Lady Bug
@@ -794,77 +794,77 @@ MonoBehaviour:
     - objectName: "\u0633\u064A\u0627\u0631\u0629"
       alphabet: "\u0633"
       objectImage: {fileID: 21300000, guid: c9c2652edf4053142a3075a7cd9a40f9, type: 3}
-      correctAnswer: {fileID: 8300000, guid: b2c920cfd7bb14c85a879fac0a39bb7d, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 81dbe694c1839a5408e2c364f260c73f, type: 3}
     - objectName: "\u0633\u0645\u0643\u0629"
       alphabet: "\u0633"
       objectImage: {fileID: 21300000, guid: c755ad864b4764f41b19c7fa216188f8, type: 3}
-      correctAnswer: {fileID: 8300000, guid: b671f54fef64144b091cce21acbb238b, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 1c90093d72418d54a8a19e89715bde96, type: 3}
   - alphabet: "\u0634"
     correctWords:
     - objectName: "\u0634\u064A\u0628\u0633\u064A"
       alphabet: "\u0634"
       objectImage: {fileID: 21300000, guid: 326fe0896eb461942bfdcc12c81dcb7d, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 528ddb87863e84a55a67bb9a6b7347a1, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 762b429500e61d0498ea1098be8ec18e, type: 3}
     - objectName: "\u0634\u062C\u0631\u0629"
       alphabet: "\u0634"
       objectImage: {fileID: 21300000, guid: 67b766340c7096b44b46006f3145c25c, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 149f2f1818fd74a71bb0ce8f7f207579, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 5d0b1c11716b39f4ca38d8a980eb64a3, type: 3}
     - objectName: "\u0634\u0645\u0633"
       alphabet: "\u0634"
       objectImage: {fileID: 21300000, guid: 7cb55db547704f54c872ceac30af5cb0, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 149f2f1818fd74a71bb0ce8f7f207579, type: 3}
+      correctAnswer: {fileID: 8300000, guid: e66cd8e257a44ee4cb9b626ff67beb12, type: 3}
     - objectName: "\u0634\u0645\u0633\u064A\u0629"
       alphabet: "\u0634"
       objectImage: {fileID: 21300000, guid: 749761e72b650c844919de434d9ff5ce, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 149f2f1818fd74a71bb0ce8f7f207579, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 344ab1307482a9e4a9e0d782db5130b8, type: 3}
   - alphabet: "\u0635"
     correctWords:
     - objectName: "\u0635\u0627\u0631\u0648\u062E"
       alphabet: "\u0635"
       objectImage: {fileID: 21300000, guid: d3223d3d5d7a1b04884a45614059dfa9, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 385c5ed7944ec4d33b908e31c1bd7f79, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 002ec48eb43f63b4d93d480111678ad3, type: 3}
     - objectName: "\u0635\u0642\u0631"
       alphabet: "\u0635"
       objectImage: {fileID: 21300000, guid: 1cbc6b7751a6b5b4ab1176cb61d9d5df, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 385c5ed7944ec4d33b908e31c1bd7f79, type: 3}
+      correctAnswer: {fileID: 8300000, guid: e2dd0c24dc3f0d642a00f8262b2ef8c5, type: 3}
   - alphabet: "\u0636"
     correctWords:
     - objectName: "\u0636\u0641\u062F\u0639"
       alphabet: "\u0636"
       objectImage: {fileID: 21300000, guid: f2223e394b1643d4ca70128424cc724d, type: 3}
-      correctAnswer: {fileID: 8300000, guid: feec9370801e748408bf7796ee89fbee, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 34caea14c5bcfd64fa902fca42897c39, type: 3}
   - alphabet: "\u0637"
     correctWords:
     - objectName: "\u0637\u0627\u0626\u0631\u0629"
       alphabet: "\u0637"
       objectImage: {fileID: 21300000, guid: 488c0103dbe9cbc41b69c51e2e1d7453, type: 3}
-      correctAnswer: {fileID: 8300000, guid: ad7cc626863024ac6ac78bb942de9419, type: 3}
+      correctAnswer: {fileID: 8300000, guid: cddec05f4e4f1c94c9078a5013b07d34, type: 3}
   - alphabet: "\u0638"
     correctWords:
     - objectName: "\u0638\u0628\u064A"
       alphabet: "\u0638"
       objectImage: {fileID: 21300000, guid: 335217749a3244f4885ac456a47d7df0, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 8472852de237240618f81df7bbd7f6de, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 0b6ad585a2a631d4a97dd15cb8f1eae8, type: 3}
   - alphabet: "\u0639"
     correctWords:
     - objectName: "\u0639\u0635\u0641\u0648\u0631"
       alphabet: "\u0639"
       objectImage: {fileID: 21300000, guid: bd29553cba4df414fa5495782041ce50, type: 3}
-      correctAnswer: {fileID: 8300000, guid: c62608b6657814a69854cf455bd5db68, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 724ae84cd94d1d948a60092ced687346, type: 3}
     - objectName: "\u0639\u0646\u0643\u0628\u0648\u062A"
       alphabet: "\u0639"
       objectImage: {fileID: 21300000, guid: f388517271a721045949d3d990290f5e, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 8f0f2105c84424bd48adabce05da12ae, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 01f169fee25b8bc428f93601044feafd, type: 3}
     - objectName: "\u0639\u0646\u0628"
       alphabet: "\u0639"
       objectImage: {fileID: 21300000, guid: 3a550c4d2cdbbba4296e765a6f0645dc, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 8f0f2105c84424bd48adabce05da12ae, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 7cb09c498fcfec14580a581dda5eea97, type: 3}
   - alphabet: "\u063A"
     correctWords:
     - objectName: "\u063A\u0631\u0627\u0628"
       alphabet: "\u063A"
       objectImage: {fileID: 21300000, guid: 1782eb1cc32756b44bb68c90f0c6d475, type: 3}
-      correctAnswer: {fileID: 8300000, guid: eb23105a511ce4fb29eacbe13d7faa18, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 7867db137024ad24d805518a3558589b, type: 3}
   - alphabet: "\u0641"
     correctWords:
     - objectName: "\u0641\u0623\u0631"
@@ -876,89 +876,89 @@ MonoBehaviour:
     - objectName: "\u0642\u0628\u0639\u0629"
       alphabet: "\u0642"
       objectImage: {fileID: 21300000, guid: 9285ad6fee9e12d409e2b27923c7206d, type: 3}
-      correctAnswer: {fileID: 8300000, guid: af05c4616adc84f8db5f68356b67ec37, type: 3}
+      correctAnswer: {fileID: 8300000, guid: ae7ae40fec0888241acd3e805487db56, type: 3}
     - objectName: "\u0642\u0637\u0627\u0631"
       alphabet: "\u0642"
       objectImage: {fileID: 21300000, guid: 3f11f14738eb9054185abeac13447a9c, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 44dc889bc013f41ce931e66786226df6, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 26fe01fa79d1ed44da7bec01673ee5f2, type: 3}
     - objectName: "\u0642\u0631\u062F"
       alphabet: "\u0642"
       objectImage: {fileID: 21300000, guid: 8f70cd791c82dd14f9a310d073544940, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 44dc889bc013f41ce931e66786226df6, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 5ce7055d630d8624a8c82f3a70b747b1, type: 3}
   - alphabet: "\u0643"
     correctWords:
     - objectName: "\u0643\u0644\u0628"
       alphabet: "\u0643"
       objectImage: {fileID: 21300000, guid: c208cb7d01d0b3445bc202792a5031a5, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 4a4350a07cda94e6299845eb8a6a7a61, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 33e05afa28b390346b82e81e6d8a17fb, type: 3}
     - objectName: "\u0643\u064A\u0648\u064A"
       alphabet: "\u0643"
       objectImage: {fileID: 21300000, guid: 237a6c01532b11849a2226e291740206, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 4a4350a07cda94e6299845eb8a6a7a61, type: 3}
+      correctAnswer: {fileID: 8300000, guid: fbfc967768b470448bbef880c7dd4878, type: 3}
   - alphabet: "\u0644"
     correctWords:
     - objectName: "\u0644\u064A\u0645\u0648\u0646"
       alphabet: "\u0644"
       objectImage: {fileID: 21300000, guid: 48df6a6ec050257448b9ccfa6ed1c58a, type: 3}
-      correctAnswer: {fileID: 8300000, guid: eb27054f819d64636b7c2585f08b6166, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 2f2a7b64d617e1942a1dbe95331a1812, type: 3}
   - alphabet: "\u0645"
     correctWords:
     - objectName: "\u0645\u0631\u0628\u0649"
       alphabet: "\u0645"
       objectImage: {fileID: 21300000, guid: 06684602cc1dbc34c936aac6976c7aa3, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 993f9a1357e064296967031786614bf1, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 04225090f69a4e642ba317724b70e87e, type: 3}
     - objectName: "\u0645\u0648\u0632"
       alphabet: "\u0645"
       objectImage: {fileID: 21300000, guid: 5c1038f5324a5b54893933ccadaff6a3, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 993f9a1357e064296967031786614bf1, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 6143c151b208a324a952e01ca008746f, type: 3}
     - objectName: "\u0645\u0641\u0627\u062A\u064A\u062D"
       alphabet: "\u0645"
       objectImage: {fileID: 21300000, guid: 408a8c4975d539e459ca1fb4814232b9, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 993f9a1357e064296967031786614bf1, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 9542051545fe01641b3e0d490f1778a2, type: 3}
   - alphabet: "\u0646"
     correctWords:
     - objectName: "\u0646\u0645\u0631"
       alphabet: "\u0646"
       objectImage: {fileID: 21300000, guid: 57249855a6334fe428c90f064af372b3, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 5adc6f1e8397a4e73a1f4b5b8929cda3, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 0328ff6e9ea8ef7418bfac17faca85eb, type: 3}
     - objectName: "\u0646\u0639\u0627\u0645\u0629"
       alphabet: "\u0646"
       objectImage: {fileID: 21300000, guid: ae0c37f66d2c620429f447a0000c5eb7, type: 3}
-      correctAnswer: {fileID: 8300000, guid: ecb00b02d20384eb9ba06b9c272e936e, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 39403e02baf8b164ea13ec2ad329da0d, type: 3}
     - objectName: "\u0646\u0648\u0631\u0633"
       alphabet: "\u0646"
       objectImage: {fileID: 21300000, guid: 896dc30f468649640be520317e6dcc13, type: 3}
-      correctAnswer: {fileID: 8300000, guid: ecb00b02d20384eb9ba06b9c272e936e, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 51c11a8e41de39f4ebb9598efe25946e, type: 3}
     - objectName: "\u0646\u062D\u0644\u0629"
       alphabet: "\u0646"
       objectImage: {fileID: 21300000, guid: 598efc7aff2523446acb155e8bd51986, type: 3}
-      correctAnswer: {fileID: 8300000, guid: ecb00b02d20384eb9ba06b9c272e936e, type: 3}
+      correctAnswer: {fileID: 0}
   - alphabet: "\u0647"
     correctWords:
     - objectName: "\u0647\u0631\u0629"
       alphabet: "\u0647"
       objectImage: {fileID: 21300000, guid: 148125fc52dbb6644b0861fcbdfa385c, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 71e27b184c0394a22a381acda313c4db, type: 3}
+      correctAnswer: {fileID: 8300000, guid: b345ece31c0293644a98a7174db5a194, type: 3}
     - objectName: "\u0647\u0648\u062A \u062F\u0648\u062C"
       alphabet: "\u0647"
       objectImage: {fileID: 21300000, guid: d7f89cafb4b5c7e47a928bf15dd0990a, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 71e27b184c0394a22a381acda313c4db, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 43d4c51b9fa5f7d46b8bc10e4ec058b2, type: 3}
     - objectName: "\u0647\u0644\u064A\u0643\u0648\u0628\u062A\u0631"
       alphabet: "\u0647"
       objectImage: {fileID: 21300000, guid: 1e51fb668b2e371429f17220b970c65b, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 71e27b184c0394a22a381acda313c4db, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 46c290c7be7b99d4da7be67cef9386a2, type: 3}
   - alphabet: "\u0648"
     correctWords:
     - objectName: "\u0648\u0631\u062F\u0629"
       alphabet: "\u0648"
       objectImage: {fileID: 21300000, guid: e637ca2e9a9534f458b57b85d2ae49b9, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 71e27b184c0394a22a381acda313c4db, type: 3}
+      correctAnswer: {fileID: 8300000, guid: f76667d86ca2b4542946de246a7654f8, type: 3}
   - alphabet: "\u064A"
     correctWords:
     - objectName: "\u064A\u0648\u0633\u0641\u064A"
       alphabet: "\u064A"
       objectImage: {fileID: 21300000, guid: 426593f82339a054fac0f74946c54fd6, type: 3}
-      correctAnswer: {fileID: 8300000, guid: 71e27b184c0394a22a381acda313c4db, type: 3}
+      correctAnswer: {fileID: 8300000, guid: 0a813193204ec05478e403e4936145b8, type: 3}
 --- !u!114 &727763828
 MonoBehaviour:
   m_ObjectHideFlags: 0
