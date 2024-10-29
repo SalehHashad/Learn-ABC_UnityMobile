@@ -26,6 +26,11 @@ public class SubmenuControl : MonoBehaviour
     public List<string> LearntoWrite_Arabic = new List<string>();
     public List<string> puzzle_Arabic = new List<string>();
 
+
+    public List<string> learnNumbers_English = new List<string>();
+    public List<string> learnNumbers_Arabic = new List<string>();
+
+
     public List<string> Chars = new List<string>();
     public List<string> Chars_Arabic = new List<string>();
     public bool IsCharCount = false;
@@ -38,7 +43,10 @@ public class SubmenuControl : MonoBehaviour
         Pattern = 3,
         FindCorrectImage = 4,
         Puzzle = 5,
-        Puzzle2 = 6
+        Puzzle2 = 6,
+        numbers = 7,
+        englishNumbers = 8,
+        arabicNumbers = 9,
     }
 
     void Start()
@@ -64,6 +72,13 @@ public class SubmenuControl : MonoBehaviour
                     case SubMenuType.Puzzle:
                         ButtonCloning(puzzle);
                         break;
+                    //case SubMenuType.englishNumbers:
+                    //    ButtonCloning(learnNumbers_English);
+                    //    break;
+                    //case SubMenuType.arabicNumbers:
+                    //    ButtonCloning(learnNumbers_Arabic);
+                    //    break;
+
                 }
             }
 
@@ -72,15 +87,34 @@ public class SubmenuControl : MonoBehaviour
         }
         else
         {
-            if (MenuButtonsScript.IS_ARABIC == true)
+            if (!MenuButtonsScript.IS_NUMBERS)
             {
-                ButtonCloningForChoices(Chars_Arabic);
+                if (MenuButtonsScript.IS_ARABIC == true)
+                {
+                    ButtonCloningForChoices(Chars_Arabic);
+                }
+                else
+                {
+                    ButtonCloningForChoices(Chars);
+                }
             }
             else
             {
-                ButtonCloningForChoices(Chars);
+                if (MenuButtonsScript.IS_ARABIC == true)
+                {
+                    ButtonCloning(learnNumbers_Arabic);
+                    //ButtonCloningForChoices(learnNumbers_Arabic);
+                }
+                else
+                {
+                    ButtonCloning(learnNumbers_English);
+                    //ButtonCloningForChoices(learnNumbers_English);
+                }
+
             }
+
         }
+       
         //AdmobManager.bannerShow(false);
     }
 
@@ -196,6 +230,24 @@ public class SubmenuControl : MonoBehaviour
     }
     void CheckScenes (bool isArabic)
     {
+
+        //switch (menuType)
+        //{
+        //    case SubMenuType.numbers:
+        //        if (MenuButtonsScript.IS_NUMBERS)
+        //        {
+        //            ButtonCloning(learnNumbers_Arabic);
+        //        }
+        //        else
+        //        {
+        //            ButtonCloning(learnNumbers_English);
+
+        //        }
+        //        break;
+        //}
+
+           
+
         if (isArabic == false)
         {
             if (menuType == 0)
@@ -222,6 +274,10 @@ public class SubmenuControl : MonoBehaviour
                     case SubMenuType.Puzzle2:
                         Application.LoadLevel("Puzzle2");
                         break;
+                    case SubMenuType.englishNumbers:
+                        ButtonCloning(learnNumbers_English);
+                        break;
+
                 }
             }
         }
@@ -250,6 +306,9 @@ public class SubmenuControl : MonoBehaviour
                         break;
                     case SubMenuType.Puzzle2:
                         Application.LoadLevel("Puzzle2");
+                        break;
+                    case SubMenuType.arabicNumbers:
+                        ButtonCloning(learnNumbers_Arabic);
                         break;
                 }
             }

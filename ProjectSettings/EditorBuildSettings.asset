@@ -53,6 +53,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/arabic Scene/Puzzle2.unity
     guid: c8822cadfe95f004984f9f8ea771efcb
+  - enabled: 1
+    path: Assets/Scenes/Puzzle Numbers Arabic.unity
+    guid: 7b5a4ded607a3024eb32b8e845e77b74
+  - enabled: 1
+    path: Assets/Scenes/Puzzle Numbers English.unity
+    guid: ad9173fbbe7e11c4baf76725f3d525bf
+  - enabled: 1
+    path: Assets/Scenes/Learn to Write Numbers2.unity
+    guid: b464ababc2ee47342a7034a3905d0cf8
+  - enabled: 1
+    path: Assets/Scenes/Learn to Write Numbers.unity
+    guid: d414b8dc9a00d8d46b95dbb86c6632b9
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 14c26621eb664d845809e0f255907599, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 909a8bfca0aa1d1409890dc34a0346ae, type: 2}

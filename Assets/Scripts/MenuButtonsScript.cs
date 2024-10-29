@@ -9,9 +9,12 @@ using System.Collections;
 public class MenuButtonsScript : MonoBehaviour
 {
     public static bool IS_ARABIC;
+    public static bool IS_NUMBERS;
 
     void Start()
     {
+        IS_ARABIC = false;
+        IS_NUMBERS = false;
         GameParent.alphabetIndex = 0;
     }
 
@@ -25,11 +28,13 @@ public class MenuButtonsScript : MonoBehaviour
 
     public void OnUpperButtonClick(int i)
     {
+        IS_ARABIC = false;
+        IS_NUMBERS = false;
         switch (i)
         {
+
             case 1:
                 {
-                    IS_ARABIC = false;
                     SubmenuControl.menuType = SubmenuControl.SubMenuType.LearntoRead;
                     SubmenuControl.gotoScene = "Learn to Read";
                     Application.LoadLevel("Submenu Select");
@@ -37,7 +42,6 @@ public class MenuButtonsScript : MonoBehaviour
                 break;
             case 2:
                 {
-                    IS_ARABIC = false;
                     SubmenuControl.menuType = SubmenuControl.SubMenuType.LearntoWrite;
                     SubmenuControl.gotoScene = "Learn to Write";
                     Application.LoadLevel("Submenu Select");
@@ -45,7 +49,6 @@ public class MenuButtonsScript : MonoBehaviour
                 break;
             case 3:
                 {
-                    IS_ARABIC = false;
                     SubmenuControl.menuType = SubmenuControl.SubMenuType.Pattern;
                     SubmenuControl.gotoScene = "Patterns";
                     Application.LoadLevel("Submenu Select");
@@ -53,7 +56,6 @@ public class MenuButtonsScript : MonoBehaviour
                 break;
             case 4:
                 {
-                    IS_ARABIC = false;
                     SubmenuControl.menuType = SubmenuControl.SubMenuType.FindCorrectImage;
                     SubmenuControl.gotoScene = "Find the Answer";
                     Application.LoadLevel("Submenu Select");
@@ -61,7 +63,6 @@ public class MenuButtonsScript : MonoBehaviour
                 break;
             case 5:
                 {
-                    IS_ARABIC = false;
                     SubmenuControl.menuType = SubmenuControl.SubMenuType.Puzzle;
                     SubmenuControl.gotoScene = "Puzzle";
                     Application.LoadLevel("Submenu Select");
@@ -69,7 +70,6 @@ public class MenuButtonsScript : MonoBehaviour
                 break;
             case 6:
                 {
-                    IS_ARABIC = false;
                     SubmenuControl.menuType = SubmenuControl.SubMenuType.Puzzle2;
                     SubmenuControl.gotoScene = "Puzzle00";
                     Application.LoadLevel("Submenu Select");
@@ -77,7 +77,6 @@ public class MenuButtonsScript : MonoBehaviour
                 break;
             case 7:
                 {
-                    IS_ARABIC = false;
                     SubmenuControl.menuType = SubmenuControl.SubMenuType.Puzzle2;
                     SubmenuControl.gotoScene = "Quiz";
                     Application.LoadLevel("Quiz");
@@ -115,10 +114,47 @@ public class MenuButtonsScript : MonoBehaviour
                     Application.LoadLevel("Submenu Select");
                 }
                 break;
+            case 12:
+                {
+                    IS_NUMBERS = true;
+                    SubmenuControl.menuType = SubmenuControl.SubMenuType.englishNumbers;
+                    SubmenuControl.gotoScene = "Learn to Write Numbers";
+                    Application.LoadLevel("Submenu Select");
+                }
+                break;
+            case 13:
+                {
+                    IS_ARABIC = true;
+                    IS_NUMBERS = true;
+                    SubmenuControl.menuType = SubmenuControl.SubMenuType.arabicNumbers;
+                    SubmenuControl.gotoScene = "Learn to Write Numbers2";
+                    Application.LoadLevel("Submenu Select");
+                }
+                break;
+            case 14:
+                {
+                    IS_NUMBERS = true;
+
+                    SubmenuControl.menuType = SubmenuControl.SubMenuType.numbers;
+                    SubmenuControl.gotoScene = "Puzzle Numbers English";
+                    Application.LoadLevel("Puzzle Numbers English");
+                }
+                break;
+            case 15:
+                {
+                    IS_NUMBERS = true;
+                    SubmenuControl.menuType = SubmenuControl.SubMenuType.numbers;
+                    SubmenuControl.gotoScene = "Puzzle Numbers Arabic";
+                    Application.LoadLevel("Puzzle Numbers Arabic");
+                }
+                break;
             default:
                 break;
+
+                //randomChanceInterstitial();
+
+
         }
-        //randomChanceInterstitial();
     }
 
     public void OnLowerButtonClick(int i)
@@ -146,5 +182,9 @@ public class MenuButtonsScript : MonoBehaviour
         //		int rnd = Random.Range (0, 100);
         //		if (rnd >= 20)
         //			AdmobManager.RequestInterstitial ();
+    }
+    public void SetIsNumberValue()
+    {
+        IS_NUMBERS= true;
     }
 }

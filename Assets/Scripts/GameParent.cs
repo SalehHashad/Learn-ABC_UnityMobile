@@ -21,6 +21,9 @@ public class GameParent : MonoBehaviour
     [HideInInspector]
     public static string
         arabicAlphabet = "أبتثجحخدذرزسشصضطظعغفقكلمنهوي";
+    //[HideInInspector]
+    //public static string
+    //numbers = "01234567891";
     public static int alphabetIndex = 0;
 
     /// Jika user menekan tombol back, game akan 
@@ -55,19 +58,41 @@ public class GameParent : MonoBehaviour
 
 	public virtual void OnPrevButtonClick ()
 	{
-        if (alphabetIndex == fromIndex)
-            alphabetIndex = toIndex;
+        if (MenuButtonsScript.IS_NUMBERS)
+        {
+            if (alphabetIndex == 0)
+                alphabetIndex = 10;
+            else
+                alphabetIndex--;
+        }
         else
-            alphabetIndex--;
+        {
+            if (alphabetIndex == fromIndex)
+                alphabetIndex = toIndex;
+            else
+                alphabetIndex--;
+        }
+       
         InitAlphabets();
     }
 
 	public virtual void OnNextButtonClick ()
 	{
-        if (alphabetIndex >= toIndex)
-            alphabetIndex = fromIndex;
+        if (MenuButtonsScript.IS_NUMBERS)
+        {
+            if (alphabetIndex == 10)
+                alphabetIndex = 0;
+            else
+                alphabetIndex++;
+        }
         else
-            alphabetIndex++;
+        {
+            if (alphabetIndex >= toIndex)
+                alphabetIndex = fromIndex;
+            else
+                alphabetIndex++;
+        }
+       
         InitAlphabets();
 
     }
