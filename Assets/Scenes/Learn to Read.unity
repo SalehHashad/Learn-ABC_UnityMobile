@@ -2744,7 +2744,7 @@ MonoBehaviour:
     objectImage: {fileID: 21300000, guid: fb06f482bbf92c24e9d990bd2113773b, type: 3}
     narator: {fileID: 8300000, guid: 6ae8436e23b4948b4a483334a3fcc56a, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 66061c6d0775248da94546012e8245e1, type: 3}
+    animalSound: {fileID: 8300000, guid: e402ef2ebedddc6448fce03e842a4386, type: 3}
   - objectName: Beaver
     objectAlias: Bb
     textColor: {r: 0, g: 0, b: 0, a: 0}
@@ -2758,77 +2758,77 @@ MonoBehaviour:
     objectImage: {fileID: 21300000, guid: 148125fc52dbb6644b0861fcbdfa385c, type: 3}
     narator: {fileID: 8300000, guid: 56fac65d48e1940f4b6984b4c98b6b67, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 4867b62bc39b24515a15a20d6f7562e6, type: 3}
+    animalSound: {fileID: 8300000, guid: a2ea297d302a18845b8e1960c1c4a5da, type: 3}
   - objectName: Donkey
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 9e17025b54d9fe64e99839c8830c8c1b, type: 3}
     narator: {fileID: 8300000, guid: 03a7a45619b4943cf85b522d2b9a917b, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: ad0d53a3d7f4041a8b7400a5be3502c3, type: 3}
+    animalSound: {fileID: 8300000, guid: 71a668852e733d14695027c0a76596d3, type: 3}
   - objectName: Elephant
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 535c4ddcdb161f64c96618505fbebcea, type: 3}
     narator: {fileID: 8300000, guid: cc78aee39b4b748ae8707d129c8eb608, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 4a0bd0c3319ef409fa9ec355a7a62cea, type: 3}
+    animalSound: {fileID: 8300000, guid: b1fb20695fb1bb64b89b4b4093d4a84b, type: 3}
   - objectName: Frog
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: f2223e394b1643d4ca70128424cc724d, type: 3}
     narator: {fileID: 8300000, guid: b861d8537d11e4c49b5d3b8869a5080a, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: c96ae88640a0e42e188c5afb50cf45a3, type: 3}
+    animalSound: {fileID: 8300000, guid: 6efd618cd61e1ce45b36d4f897491243, type: 3}
   - objectName: Giraffe
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 20b9ba1399a454d41a40975b76acf829, type: 3}
     narator: {fileID: 8300000, guid: fd4deb35b568a42b480c2775776460cb, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 62b6f83036e3d47c68ecdc7567f6d1b8, type: 3}
+    animalSound: {fileID: 8300000, guid: c2c52c33cc9f5c541b4ea24cb29db6f1, type: 3}
   - objectName: Horse
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: b8b642858f3cb204b94e66658fc614c0, type: 3}
     narator: {fileID: 8300000, guid: 429c0518f32ad4e5f90f979452e64702, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 60b639c08c857495aa5e56de3597eda0, type: 3}
+    animalSound: {fileID: 8300000, guid: 315a826df72560249a74a13599a5b623, type: 3}
   - objectName: Iguana
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 32613af39cbfa134281cdd44ff8718ba, type: 3}
     narator: {fileID: 8300000, guid: d6a648bcbc47d4e83bf4e8b0b9866117, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 8386a72c38896448f9ce52fa8d358651, type: 3}
+    animalSound: {fileID: 0}
   - objectName: Jellyfish
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 8fc56acc2cf8d8e468e93d2185297834, type: 3}
     narator: {fileID: 8300000, guid: 3cde0b18093bc41d89225cf88937ec80, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 26f19d048246d4a57b91dda6af636770, type: 3}
+    animalSound: {fileID: 0}
   - objectName: Kangaroo
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 6d5c16fe69387114481816f9a1308f26, type: 3}
     narator: {fileID: 8300000, guid: 33545c01fe9f1475a95a5f9e06098a4d, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 24b9dfa3112514943ae11b34cb0d1c77, type: 3}
+    animalSound: {fileID: 8300000, guid: 89f5931a6d7bd9d4e8244651417b2700, type: 3}
   - objectName: Lion
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 210c22b4d0c3e534db692c01b48d4d30, type: 3}
     narator: {fileID: 8300000, guid: 3cbad55887fba4d57a334c4af49641dc, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 4d0b829ec465d482998a731c52bd2fd9, type: 3}
+    animalSound: {fileID: 8300000, guid: 5913a18d20861954aae3df5baa23d4ab, type: 3}
   - objectName: Mouse
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 33e2dffbb513cf0489d7bc68b399791f, type: 3}
     narator: {fileID: 8300000, guid: 2b05947aaaee04810b2601ce7df8b97b, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 7ed12e455dbd542ebb26b297d26420da, type: 3}
+    animalSound: {fileID: 8300000, guid: 8aecece8d42120142867d12443ce9144, type: 3}
   - objectName: Numbut
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
@@ -2842,7 +2842,7 @@ MonoBehaviour:
     objectImage: {fileID: 21300000, guid: 903582859ce6cfe45bdf2ebf0ae47400, type: 3}
     narator: {fileID: 8300000, guid: a3fa65255dfcc469faa05786259a0ee8, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 5073c55ac8e6e43e28647b30710dc23e, type: 3}
+    animalSound: {fileID: 8300000, guid: 5f8e18239f4e2be4a8c88b619d9f7afc, type: 3}
   - objectName: Panda
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
@@ -2856,28 +2856,28 @@ MonoBehaviour:
     objectImage: {fileID: 21300000, guid: 70c32379c13b3c349a2610fa9cacaf44, type: 3}
     narator: {fileID: 8300000, guid: ba6a7bd90e3544e6d9dc6ab3092db902, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: fb5cfe54877514a1ea2d6548f8369037, type: 3}
+    animalSound: {fileID: 8300000, guid: cff81f0ffbdf0954f9828152508a0a65, type: 3}
   - objectName: Raccoon
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: c7effa8e20c903547bd10f59489d61b4, type: 3}
     narator: {fileID: 8300000, guid: e87bf0500dd9f420aa1b799f7fec7813, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 06c80c68e130b440680d71a0634d4b15, type: 3}
+    animalSound: {fileID: 8300000, guid: 5167c5a8fece0f04a9eab5650fee512e, type: 3}
   - objectName: Sheep
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 30ca1f63028a83d49b5f7dade490e9d3, type: 3}
     narator: {fileID: 8300000, guid: c69d1e0f6106a43c58b4dacc5ca29442, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 16efb17aba6624961aaf6b421a25781f, type: 3}
+    animalSound: {fileID: 8300000, guid: 1db950f9a2b810d4099763dfca01e1dd, type: 3}
   - objectName: Turtle
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: c6d204f18d529f34ea7c95d86f57f3c5, type: 3}
     narator: {fileID: 8300000, guid: 171795caeb92a4ea1832d841fecf0550, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: a4effa6abd66a40e8bcd270b6d6db51a, type: 3}
+    animalSound: {fileID: 8300000, guid: bc5bafb4c3cf6c7419276042b1069309, type: 3}
   - objectName: Unicorn
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
@@ -2891,7 +2891,7 @@ MonoBehaviour:
     objectImage: {fileID: 21300000, guid: 9aa85c3a4bb2de542acc497310960c4c, type: 3}
     narator: {fileID: 8300000, guid: 78100ecf953c544c1bf739067e6d6c92, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 90f0ce6d743e04a0bb1de9535fda9ecb, type: 3}
+    animalSound: {fileID: 8300000, guid: 368aa86e967c2ea49af25d049e27bee0, type: 3}
   - objectName: Whale
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
@@ -2905,7 +2905,7 @@ MonoBehaviour:
     objectImage: {fileID: 21300000, guid: 048be8caae28047179ad820f7594186d, type: 3}
     narator: {fileID: 8300000, guid: 0a6438380401649feaf4472aecd61d0d, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: 040a66bced20f4599af3af351b4c4f15, type: 3}
+    animalSound: {fileID: 8300000, guid: 32924acb21112a243b65cf5bea2d3c9f, type: 3}
   - objectName: Yak
     objectAlias: 
     textColor: {r: 0, g: 0, b: 0, a: 0}
@@ -2919,7 +2919,7 @@ MonoBehaviour:
     objectImage: {fileID: 21300000, guid: 10c92650d8badf544a076ea6512295fc, type: 3}
     narator: {fileID: 8300000, guid: 1a5ab45f2e2f14a209c3a727bd51cca2, type: 3}
     background: {fileID: 0}
-    animalSound: {fileID: 8300000, guid: beed4aaa7f68848f1a3b8fbab6e49548, type: 3}
+    animalSound: {fileID: 8300000, guid: 4bfd1d513424e2d44ad73aebc515124a, type: 3}
 --- !u!95 &1355207857
 Animator:
   serializedVersion: 5
