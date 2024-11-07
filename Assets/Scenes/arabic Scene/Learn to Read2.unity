@@ -2283,56 +2283,56 @@ MonoBehaviour:
     objectAlias: "\u0623"
     textColor: {r: 0, g: 0, b: 0, a: 1}
     objectImage: {fileID: 21300000, guid: 210c22b4d0c3e534db692c01b48d4d30, type: 3}
-    narator: {fileID: 8300000, guid: b65d2bbb8fe17c34fbaaa560a13a91be, type: 3}
+    narator: {fileID: 8300000, guid: 32b42e23915256c47ac60b93559d0404, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: 5913a18d20861954aae3df5baa23d4ab, type: 3}
   - objectName: "\u0628\u0642\u0631\u0629"
     objectAlias: "\u0628"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: f831c22852d8a7c498030afca4937438, type: 3}
-    narator: {fileID: 8300000, guid: 646507f58ae916b4c92be9786271d3eb, type: 3}
+    narator: {fileID: 8300000, guid: 22ccb0f0d1680504ea5cefc040b3a7da, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: e8cc65eefa4fd4928aee5526b86d57b8, type: 3}
   - objectName: "\u062A\u0645\u0633\u0627\u062D"
     objectAlias: "\u062A"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: fb06f482bbf92c24e9d990bd2113773b, type: 3}
-    narator: {fileID: 8300000, guid: 15908eef22406484e896e086f68bc353, type: 3}
+    narator: {fileID: 8300000, guid: 9ac43b8aa5748784a911a602961252ed, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: e402ef2ebedddc6448fce03e842a4386, type: 3}
   - objectName: "\u062B\u0639\u0628\u0627\u0646"
     objectAlias: "\u062B"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 9aa85c3a4bb2de542acc497310960c4c, type: 3}
-    narator: {fileID: 8300000, guid: deaec6763b49fc94bb10084f32f9e5a2, type: 3}
+    narator: {fileID: 8300000, guid: 009d18d4090157d4f9cfbb64b8e95a9d, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: 368aa86e967c2ea49af25d049e27bee0, type: 3}
   - objectName: "\u062C\u0645\u0644"
     objectAlias: "\u062C"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 6f12835a5091c8f4692438af2184feff, type: 3}
-    narator: {fileID: 8300000, guid: 3e871de2e725bab4380054ffa79e660f, type: 3}
+    narator: {fileID: 8300000, guid: 3fad9c163a7d10a49bf140dfdc952b66, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: c98b4d73432cb4a4da739531fed5cc2a, type: 3}
   - objectName: "\u062D\u0635\u0627\u0646"
     objectAlias: "\u062D"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: b8b642858f3cb204b94e66658fc614c0, type: 3}
-    narator: {fileID: 8300000, guid: 9cd17a8f066ef844fb315d6bbf3e4824, type: 3}
+    narator: {fileID: 8300000, guid: 5fd004bd9115fd744b3c4cdc63e0aafc, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: 315a826df72560249a74a13599a5b623, type: 3}
   - objectName: "\u062E\u0631\u0648\u0641"
     objectAlias: "\u062E"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 30ca1f63028a83d49b5f7dade490e9d3, type: 3}
-    narator: {fileID: 8300000, guid: 5b60063c534562d4885889df5641eb37, type: 3}
+    narator: {fileID: 8300000, guid: ab3c595321a243642b0e8feb8e5eee80, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: 1db950f9a2b810d4099763dfca01e1dd, type: 3}
   - objectName: "\u062F\u0648\u0644\u0641\u064A\u0646"
     objectAlias: "\u062F"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: e1f4643bb2297b54daf039391e629f10, type: 3}
-    narator: {fileID: 8300000, guid: e0039125137422249bde06f7285fab38, type: 3}
+    narator: {fileID: 8300000, guid: db1a872bc6fc4db499f484a103f3b69c, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: a519a7f9b2bba734ab5875f769ee7b33, type: 3}
   - objectName: "\u0630\u0626\u0628"
@@ -2346,21 +2346,21 @@ MonoBehaviour:
     objectAlias: "\u0631"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: c7effa8e20c903547bd10f59489d61b4, type: 3}
-    narator: {fileID: 8300000, guid: 38ff34a520c53634fa9e6ef52cd15f82, type: 3}
+    narator: {fileID: 8300000, guid: 217aad86d2c270e4599e5735d4e1a60d, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: 5167c5a8fece0f04a9eab5650fee512e, type: 3}
   - objectName: "\u0632\u0631\u0627\u0641\u0629"
     objectAlias: "\u0632"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 20b9ba1399a454d41a40975b76acf829, type: 3}
-    narator: {fileID: 8300000, guid: d533f13a129845646a30b4304be861ca, type: 3}
+    narator: {fileID: 8300000, guid: c42d92026d2ba2c4b9e33da31c73902f, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: c2c52c33cc9f5c541b4ea24cb29db6f1, type: 3}
   - objectName: "\u0633\u0644\u062D\u0641\u0627\u0629"
     objectAlias: "\u0633"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: c6d204f18d529f34ea7c95d86f57f3c5, type: 3}
-    narator: {fileID: 8300000, guid: ff77351c9da9c84459be4964dce6f8b6, type: 3}
+    narator: {fileID: 8300000, guid: 0613f80ede6db5046806a5dedf056bf0, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: bc5bafb4c3cf6c7419276042b1069309, type: 3}
   - objectName: "\u0634\u0645\u0628\u0627\u0646\u0632\u064A"
@@ -2374,70 +2374,70 @@ MonoBehaviour:
     objectAlias: "\u0635"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 1cbc6b7751a6b5b4ab1176cb61d9d5df, type: 3}
-    narator: {fileID: 8300000, guid: e2dd0c24dc3f0d642a00f8262b2ef8c5, type: 3}
+    narator: {fileID: 8300000, guid: 4222bd23b6ba3184b94c8777064704fe, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: 2849f625cb221214182b337a1a2dfd83, type: 3}
   - objectName: "\u0636\u0641\u062F\u0639"
     objectAlias: "\u0636"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: f2223e394b1643d4ca70128424cc724d, type: 3}
-    narator: {fileID: 8300000, guid: 34caea14c5bcfd64fa902fca42897c39, type: 3}
+    narator: {fileID: 8300000, guid: 10cb1ed2daada6d4bab523800f0de364, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: 6efd618cd61e1ce45b36d4f897491243, type: 3}
   - objectName: "\u0637\u0627\u0648\u0648\u0633"
     objectAlias: "\u0637"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 93e142838a2a17c4ea73e3b1f957984a, type: 3}
-    narator: {fileID: 8300000, guid: d0e7654dc5f189a4ea544e1beb5038e1, type: 3}
+    narator: {fileID: 8300000, guid: e0c907872dac0734f929342d00b401e4, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: b1a64d851c5b6244080b8ee58e516e9b, type: 3}
   - objectName: "\u0638\u0628\u064A"
     objectAlias: "\u0638"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 335217749a3244f4885ac456a47d7df0, type: 3}
-    narator: {fileID: 8300000, guid: 0b6ad585a2a631d4a97dd15cb8f1eae8, type: 3}
+    narator: {fileID: 8300000, guid: bdfbcd60ca6fd354bb661899684444ad, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: ca860a94e550d8640be441a170293d5a, type: 3}
   - objectName: "\u0639\u0646\u0643\u0628\u0648\u062A"
     objectAlias: "\u0639"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: f388517271a721045949d3d990290f5e, type: 3}
-    narator: {fileID: 8300000, guid: 01f169fee25b8bc428f93601044feafd, type: 3}
+    narator: {fileID: 8300000, guid: e35c552f71fd2594aa69b07469b9f997, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: f23d5e067edbfb34fa4a1252f51d9d7f, type: 3}
   - objectName: "\u063A\u0631\u0627\u0628"
     objectAlias: "\u063A"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 1782eb1cc32756b44bb68c90f0c6d475, type: 3}
-    narator: {fileID: 8300000, guid: 7867db137024ad24d805518a3558589b, type: 3}
+    narator: {fileID: 8300000, guid: 4a8bc8c24e06c5c41ab618f3bcc0fdb8, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: 18777bbc2d9811742883960010748e0c, type: 3}
   - objectName: "\u0641\u064A\u0644"
     objectAlias: "\u0641"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 535c4ddcdb161f64c96618505fbebcea, type: 3}
-    narator: {fileID: 8300000, guid: 0ac875556c9be244885bc428f5596151, type: 3}
+    narator: {fileID: 8300000, guid: eac740d83caa06c4185c626ffe08874a, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: b1fb20695fb1bb64b89b4b4093d4a84b, type: 3}
   - objectName: "\u0642\u0637\u0629"
     objectAlias: "\u0642"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 148125fc52dbb6644b0861fcbdfa385c, type: 3}
-    narator: {fileID: 8300000, guid: 2424b2244dbc43e4b8d31f1abbb5be69, type: 3}
+    narator: {fileID: 8300000, guid: 9fe1bcbd9d8fbc44c9d721737700891a, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: a2ea297d302a18845b8e1960c1c4a5da, type: 3}
   - objectName: "\u0643\u0644\u0628"
     objectAlias: "\u0643"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: c208cb7d01d0b3445bc202792a5031a5, type: 3}
-    narator: {fileID: 8300000, guid: 33e05afa28b390346b82e81e6d8a17fb, type: 3}
+    narator: {fileID: 8300000, guid: 7a3589375bca99442b6624fbb843e069, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: d4097c5558521ac408d9bf01963e8c80, type: 3}
   - objectName: "\u0644\u0627\u0645\u0629"
     objectAlias: "\u0644"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 750cb0fcd8a13b149bfa4a0eaf7c0d73, type: 3}
-    narator: {fileID: 8300000, guid: 07d275bbe21e57644ad7d7781f893dd2, type: 3}
+    narator: {fileID: 8300000, guid: 419364efdd6cc894eb3aa6515fea4260, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 0}
   - objectName: "\u0645\u0627\u0639\u0632"
@@ -2451,28 +2451,28 @@ MonoBehaviour:
     objectAlias: "\u0646"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: c0aca038b5278fd4bbf9ed7cbba7fd60, type: 3}
-    narator: {fileID: 8300000, guid: 597152faa0ba5054a98148173a1860c9, type: 3}
+    narator: {fileID: 8300000, guid: e6ea56696c1984b4d85973a9590a2b26, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: e30e57cc5627b6343a3cb1bb161b87ba, type: 3}
   - objectName: "\u0647\u062F\u0647\u062F"
     objectAlias: "\u0647"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 6df61406efdf3294b9107d79af5ea7f4, type: 3}
-    narator: {fileID: 8300000, guid: 80428a7efd01b7e4cadb5b4a73cf3c6b, type: 3}
+    narator: {fileID: 8300000, guid: 5af8ef13692828f4d96e2753f78e92dc, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 0}
   - objectName: "\u0648\u0637\u0648\u0627\u0637"
     objectAlias: "\u0648"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: b9fc55a05c737e24db683892de212947, type: 3}
-    narator: {fileID: 8300000, guid: ed1ffe01fe2b4864682905f1357a1871, type: 3}
+    narator: {fileID: 8300000, guid: 926d2f92f30ff314b9ce400c171c3291, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 0}
   - objectName: "\u064A\u0645\u0627\u0645\u0629"
     objectAlias: "\u064A"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 1425287254cdbd64b859a9e236678f0b, type: 3}
-    narator: {fileID: 8300000, guid: 66d0cfffe94935f489b7f9be96667677, type: 3}
+    narator: {fileID: 8300000, guid: b352006768e021047838c9c332e6bb75, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 0}
 --- !u!82 &1554294624
@@ -3601,142 +3601,142 @@ MonoBehaviour:
     objectAlias: "\u0623"
     textColor: {r: 0.86666673, g: 0.36078432, b: 0.37647063, a: 1}
     objectImage: {fileID: 21300000, guid: 662d51176575cc1499594a6e28389cc1, type: 3}
-    narator: {fileID: 8300000, guid: a16867c6996b6914d84d32ecfb1bb59e, type: 3}
+    narator: {fileID: 8300000, guid: cad218382b1e4e8429c1069db9ce60c9, type: 3}
   - objectName: "\u0628\u0637\u0629"
     objectAlias: "\u0628"
     textColor: {r: 0.2784314, g: 0.2784314, b: 0.2784314, a: 1}
     objectImage: {fileID: 21300000, guid: 9e48ea6d0e8e66b4295df4a946c2b6f0, type: 3}
-    narator: {fileID: 8300000, guid: 1cf8ac94c924d754fb2ecdb30247aaf5, type: 3}
+    narator: {fileID: 8300000, guid: ab314f2f3b8df0b4a9cb67905b497457, type: 3}
   - objectName: "\u062A\u0641\u0627\u062D\u0629"
     objectAlias: "\u062A"
     textColor: {r: 1, g: 0.43275863, b: 0.125, a: 1}
     objectImage: {fileID: 21300000, guid: ab9d81c8ada341c4ab79f5a1897f402c, type: 3}
-    narator: {fileID: 8300000, guid: 31614584e085c394ea9afeb24b371ca5, type: 3}
+    narator: {fileID: 8300000, guid: 380a3c9854dea804ca020f30687f2322, type: 3}
   - objectName: "\u062B\u0639\u0628\u0627\u0646"
     objectAlias: "\u062B"
     textColor: {r: 0.803, g: 0.84029984, b: 0.13321798, a: 1}
     objectImage: {fileID: 21300000, guid: 9aa85c3a4bb2de542acc497310960c4c, type: 3}
-    narator: {fileID: 8300000, guid: deaec6763b49fc94bb10084f32f9e5a2, type: 3}
+    narator: {fileID: 8300000, guid: 009d18d4090157d4f9cfbb64b8e95a9d, type: 3}
   - objectName: "\u062C\u0645\u0644"
     objectAlias: "\u062C"
     textColor: {r: 0.5661765, g: 0.7486815, b: 1, a: 1}
     objectImage: {fileID: 21300000, guid: 6f12835a5091c8f4692438af2184feff, type: 3}
-    narator: {fileID: 8300000, guid: 3e871de2e725bab4380054ffa79e660f, type: 3}
+    narator: {fileID: 8300000, guid: 3fad9c163a7d10a49bf140dfdc952b66, type: 3}
   - objectName: "\u062D\u0635\u0627\u0646"
     objectAlias: "\u062D"
     textColor: {r: 0.061916724, g: 0.8161765, b: 0, a: 1}
     objectImage: {fileID: 21300000, guid: b8b642858f3cb204b94e66658fc614c0, type: 3}
-    narator: {fileID: 8300000, guid: 9cd17a8f066ef844fb315d6bbf3e4824, type: 3}
+    narator: {fileID: 8300000, guid: 5fd004bd9115fd744b3c4cdc63e0aafc, type: 3}
   - objectName: "\u062E\u0631\u0648\u0641"
     objectAlias: "\u062E"
     textColor: {r: 0.43382353, g: 0.035088677, b: 0.38982517, a: 1}
     objectImage: {fileID: 21300000, guid: 30ca1f63028a83d49b5f7dade490e9d3, type: 3}
-    narator: {fileID: 8300000, guid: 5b60063c534562d4885889df5641eb37, type: 3}
+    narator: {fileID: 8300000, guid: ab3c595321a243642b0e8feb8e5eee80, type: 3}
   - objectName: "\u062F\u064A\u0643"
     objectAlias: "\u062F"
     textColor: {r: 0.41176468, g: 0.17230639, b: 0.04238753, a: 1}
     objectImage: {fileID: 21300000, guid: 4c90116ffab357145a66921009b35f79, type: 3}
-    narator: {fileID: 8300000, guid: 9d10cec6f81197b48bab4dcee597d499, type: 3}
+    narator: {fileID: 8300000, guid: cca0b1709d339a34f9ec1481adb9904a, type: 3}
   - objectName: "\u0630\u0631\u0629"
     objectAlias: "\u0630"
     textColor: {r: 0.74264705, g: 0.58515465, b: 0.0709883, a: 1}
     objectImage: {fileID: 21300000, guid: 2dcdea7be0353654792c3c54d9389216, type: 3}
-    narator: {fileID: 8300000, guid: 9ff663bd297209447b897cdf9872d81c, type: 3}
+    narator: {fileID: 8300000, guid: 903fca9a88c4bd242bb464142bda8f74, type: 3}
   - objectName: "\u0631\u0645\u0627\u0646"
     objectAlias: "\u0631"
     textColor: {r: 0.64705884, g: 0, b: 0.14726171, a: 1}
     objectImage: {fileID: 21300000, guid: 8abc3cced7909794ab8521e024d9af97, type: 3}
-    narator: {fileID: 8300000, guid: b49e5ec10049a184482effe0e8cf4305, type: 3}
+    narator: {fileID: 8300000, guid: 730687b064e62684f9120fcca7545494, type: 3}
   - objectName: "\u0632\u0631\u0627\u0641\u0629"
     objectAlias: "\u0632"
     textColor: {r: 0.97794116, g: 0.59261644, b: 0.17976859, a: 0.972}
     objectImage: {fileID: 21300000, guid: 20b9ba1399a454d41a40975b76acf829, type: 3}
-    narator: {fileID: 8300000, guid: d533f13a129845646a30b4304be861ca, type: 3}
+    narator: {fileID: 8300000, guid: c42d92026d2ba2c4b9e33da31c73902f, type: 3}
   - objectName: "\u0633\u0645\u0643\u0629"
     objectAlias: "\u0633"
     textColor: {r: 0.19852942, g: 0.07361294, b: 0.005839106, a: 1}
     objectImage: {fileID: 21300000, guid: c755ad864b4764f41b19c7fa216188f8, type: 3}
-    narator: {fileID: 8300000, guid: 1c90093d72418d54a8a19e89715bde96, type: 3}
+    narator: {fileID: 8300000, guid: af5422fcd6e2ace4f8e319bba6adbb6f, type: 3}
   - objectName: "\u0634\u062C\u0631\u0629"
     objectAlias: "\u0634"
     textColor: {r: 1, g: 0.66176474, b: 0.86470604, a: 1}
     objectImage: {fileID: 21300000, guid: 67b766340c7096b44b46006f3145c25c, type: 3}
-    narator: {fileID: 8300000, guid: 5d0b1c11716b39f4ca38d8a980eb64a3, type: 3}
+    narator: {fileID: 8300000, guid: d716c94d3a19c61468f21f0e5c937b2d, type: 3}
   - objectName: "\u0635\u0642\u0631"
     objectAlias: "\u0635"
     textColor: {r: 0.875, g: 0.34112573, b: 0.051470585, a: 1}
     objectImage: {fileID: 21300000, guid: 1cbc6b7751a6b5b4ab1176cb61d9d5df, type: 3}
-    narator: {fileID: 8300000, guid: e2dd0c24dc3f0d642a00f8262b2ef8c5, type: 3}
+    narator: {fileID: 8300000, guid: 4222bd23b6ba3184b94c8777064704fe, type: 3}
   - objectName: "\u0636\u0641\u062F\u0639"
     objectAlias: "\u0636"
     textColor: {r: 0.9044118, g: 0.33571476, b: 0, a: 1}
     objectImage: {fileID: 21300000, guid: f2223e394b1643d4ca70128424cc724d, type: 3}
-    narator: {fileID: 8300000, guid: 34caea14c5bcfd64fa902fca42897c39, type: 3}
+    narator: {fileID: 8300000, guid: 10cb1ed2daada6d4bab523800f0de364, type: 3}
   - objectName: "\u0637\u0627\u0626\u0631\u0629"
     objectAlias: "\u0637"
     textColor: {r: 0.44117647, g: 0.22819471, b: 0, a: 1}
     objectImage: {fileID: 21300000, guid: 488c0103dbe9cbc41b69c51e2e1d7453, type: 3}
-    narator: {fileID: 8300000, guid: cddec05f4e4f1c94c9078a5013b07d34, type: 3}
+    narator: {fileID: 8300000, guid: d85b682b933301c40bee05cd29bac619, type: 3}
   - objectName: "\u0638\u0628\u064A"
     objectAlias: "\u0638"
     textColor: {r: 0.5147059, g: 0.25145417, b: 0.049199812, a: 1}
     objectImage: {fileID: 21300000, guid: 335217749a3244f4885ac456a47d7df0, type: 3}
-    narator: {fileID: 8300000, guid: 0b6ad585a2a631d4a97dd15cb8f1eae8, type: 3}
+    narator: {fileID: 8300000, guid: bdfbcd60ca6fd354bb661899684444ad, type: 3}
   - objectName: "\u0639\u0646\u0643\u0628\u0648\u062A"
     objectAlias: "\u0639"
     textColor: {r: 0.9044118, g: 0.7361875, b: 0.03325041, a: 0}
     objectImage: {fileID: 21300000, guid: f388517271a721045949d3d990290f5e, type: 3}
-    narator: {fileID: 8300000, guid: 01f169fee25b8bc428f93601044feafd, type: 3}
+    narator: {fileID: 8300000, guid: e35c552f71fd2594aa69b07469b9f997, type: 3}
   - objectName: "\u063A\u0631\u0627\u0628"
     objectAlias: "\u063A"
     textColor: {r: 0.2873464, g: 0.5735294, b: 0.05482265, a: 1}
     objectImage: {fileID: 21300000, guid: 1782eb1cc32756b44bb68c90f0c6d475, type: 3}
-    narator: {fileID: 8300000, guid: 7867db137024ad24d805518a3558589b, type: 3}
+    narator: {fileID: 8300000, guid: 4a8bc8c24e06c5c41ab618f3bcc0fdb8, type: 3}
   - objectName: "\u0641\u064A\u0644"
     objectAlias: "\u0641"
     textColor: {r: 0.1544118, g: 0.8950305, b: 1, a: 1}
     objectImage: {fileID: 21300000, guid: 535c4ddcdb161f64c96618505fbebcea, type: 3}
-    narator: {fileID: 8300000, guid: 0ac875556c9be244885bc428f5596151, type: 3}
+    narator: {fileID: 8300000, guid: eac740d83caa06c4185c626ffe08874a, type: 3}
   - objectName: "\u0642\u0637\u0627\u0631"
     objectAlias: "\u0642"
     textColor: {r: 0.47794116, g: 0.22743405, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 3f11f14738eb9054185abeac13447a9c, type: 3}
-    narator: {fileID: 8300000, guid: 26fe01fa79d1ed44da7bec01673ee5f2, type: 3}
+    narator: {fileID: 8300000, guid: 12382da37fc7d3f4cbce246b3658abae, type: 3}
   - objectName: "\u0643\u0644\u0628"
     objectAlias: "\u0643"
     textColor: {r: 0.9485294, g: 0.02789795, b: 0.02789795, a: 1}
     objectImage: {fileID: 21300000, guid: c208cb7d01d0b3445bc202792a5031a5, type: 3}
-    narator: {fileID: 8300000, guid: 33e05afa28b390346b82e81e6d8a17fb, type: 3}
+    narator: {fileID: 8300000, guid: 7a3589375bca99442b6624fbb843e069, type: 3}
   - objectName: "\u0644\u064A\u0645\u0648\u0646"
     objectAlias: "\u0644"
     textColor: {r: 0.39705884, g: 0.017517295, b: 0.15101123, a: 1}
     objectImage: {fileID: 21300000, guid: 48df6a6ec050257448b9ccfa6ed1c58a, type: 3}
-    narator: {fileID: 8300000, guid: 2f2a7b64d617e1942a1dbe95331a1812, type: 3}
+    narator: {fileID: 8300000, guid: a352b850a89605148b1bd335f778e7dc, type: 3}
   - objectName: "\u0645\u0648\u0632"
     objectAlias: "\u0645"
     textColor: {r: 0.14553757, g: 0, b: 0.5147059, a: 1}
     objectImage: {fileID: 21300000, guid: 5c1038f5324a5b54893933ccadaff6a3, type: 3}
-    narator: {fileID: 8300000, guid: 6143c151b208a324a952e01ca008746f, type: 3}
+    narator: {fileID: 8300000, guid: 278338eb42299484bbadc960b094e295, type: 3}
   - objectName: "\u0646\u062D\u0644\u0629"
     objectAlias: "\u0646"
     textColor: {r: 0.6397059, g: 0.6397059, b: 0.6397059, a: 1}
-    objectImage: {fileID: 21300000, guid: 598efc7aff2523446acb155e8bd51986, type: 3}
-    narator: {fileID: 8300000, guid: e02b2822111ccc447bc8399f86a7298a, type: 3}
+    objectImage: {fileID: 21300000, guid: 896dc30f468649640be520317e6dcc13, type: 3}
+    narator: {fileID: 8300000, guid: 70205c3d70e702d47b86945153eaa26c, type: 3}
   - objectName: "\u0647\u0644\u064A\u0643\u0648\u0628\u062A\u0631"
     objectAlias: "\u0647"
     textColor: {r: 0.6397059, g: 0.6397059, b: 0.6397059, a: 1}
     objectImage: {fileID: 21300000, guid: 1e51fb668b2e371429f17220b970c65b, type: 3}
-    narator: {fileID: 8300000, guid: 46c290c7be7b99d4da7be67cef9386a2, type: 3}
+    narator: {fileID: 8300000, guid: 24fda2a0e5db538449ae376845f60415, type: 3}
   - objectName: "\u0648\u0631\u062F\u0629"
     objectAlias: "\u0648"
     textColor: {r: 0.6397059, g: 0.6397059, b: 0.6397059, a: 1}
     objectImage: {fileID: 21300000, guid: e637ca2e9a9534f458b57b85d2ae49b9, type: 3}
-    narator: {fileID: 8300000, guid: f76667d86ca2b4542946de246a7654f8, type: 3}
+    narator: {fileID: 8300000, guid: d61d0d1e0bdb8e84d9e909519408af58, type: 3}
   - objectName: "\u064A\u0648\u0633\u0641\u064A"
     objectAlias: "\u064A"
     textColor: {r: 0.6397059, g: 0.6397059, b: 0.6397059, a: 1}
     objectImage: {fileID: 21300000, guid: 426593f82339a054fac0f74946c54fd6, type: 3}
-    narator: {fileID: 8300000, guid: 0a813193204ec05478e403e4936145b8, type: 3}
+    narator: {fileID: 8300000, guid: 394fb1a24acac8541b2d1a5dda9b2901, type: 3}
 --- !u!82 &2146867513
 AudioSource:
   m_ObjectHideFlags: 0
