@@ -678,14 +678,14 @@ MonoBehaviour:
   objectName: {fileID: 1549535290}
   alphabetText: {fileID: 1113170440}
   letterImage: {fileID: 1933444236}
-  openingWords: {fileID: 8300000, guid: e1c7e3541960f1e4da287088131fdd6e, type: 3}
-  tryAgainWord: {fileID: 8300000, guid: 46dcd88c863eac944b5a07c18eca5ef3, type: 3}
-  letterA: {fileID: 8300000, guid: 93665fc5c22594c5bbae324fd93c4192, type: 3}
+  openingWords: {fileID: 8300000, guid: 0f64c10d92d4f0748ba4b8a1443a560d, type: 3}
+  tryAgainWord: {fileID: 8300000, guid: 55296aaf3b584314f9710925e513cb02, type: 3}
+  letterA: {fileID: 8300000, guid: 1a7df434fad29344287dcc7cf408b597, type: 3}
   congratWords:
-  - {fileID: 8300000, guid: b2de808d0ee2cf44bae731a68fd73850, type: 3}
-  - {fileID: 8300000, guid: d1bc429c7fb1ef44c86dfe878b1ed05f, type: 3}
-  - {fileID: 8300000, guid: abbc87ce95fdfaa4eb5ddf1add6bcc8a, type: 3}
-  - {fileID: 8300000, guid: f47ac40bc1923564b929fb678d2c1ae9, type: 3}
+  - {fileID: 8300000, guid: dc2f29c7c0a986340b97936a7c5ff7b8, type: 3}
+  - {fileID: 8300000, guid: ad539cc0ebd454244b62c91d0a17c324, type: 3}
+  - {fileID: 8300000, guid: fc7986685669a3b40929089287b5c3d2, type: 3}
+  - {fileID: 8300000, guid: d15b02f62274c2a478e4e3a65e7c3c98, type: 3}
   correctWordList:
   - alphabet: "\u0623"
     correctWords:

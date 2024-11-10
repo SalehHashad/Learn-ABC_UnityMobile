@@ -494,7 +494,7 @@ MonoBehaviour:
   - {fileID: 36799911}
   - {fileID: 1263514599}
   congratsUI: {fileID: 1810480810}
-  beginSound: {fileID: 8300000, guid: 38eec6ddf15ee4a72b8f912c7aed42a5, type: 3}
+  beginSound: {fileID: 0}
   cringSound: {fileID: 8300000, guid: 5a8b976f7d513460585cd9e1edbb5093, type: 3}
   compliSound:
   - {fileID: 8300000, guid: a7143917594ec4d9d9f5f44149940233, type: 3}

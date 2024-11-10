@@ -2339,7 +2339,7 @@ MonoBehaviour:
     objectAlias: "\u0630"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 1ef6159a6452e1649b0ff01921d1029e, type: 3}
-    narator: {fileID: 8300000, guid: afd0c38a1e7065744886ee16e7678fca, type: 3}
+    narator: {fileID: 8300000, guid: e654b2e755e6429419ef5fdfa1f5c4b5, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: 155a5d91230c7a54c9ded6a42187fb7d, type: 3}
   - objectName: "\u0631\u0627\u0643\u0648\u0646"
@@ -2367,7 +2367,7 @@ MonoBehaviour:
     objectAlias: "\u0634"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: 8f70cd791c82dd14f9a310d073544940, type: 3}
-    narator: {fileID: 8300000, guid: 3d08cadf25f2b6c47a13ad90ab718846, type: 3}
+    narator: {fileID: 8300000, guid: 783e739fb055e1e48b4225650c554749, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: 67a4022e0ee43674c8ee2e66cf16a938, type: 3}
   - objectName: "\u0635\u0642\u0631"
@@ -2444,7 +2444,7 @@ MonoBehaviour:
     objectAlias: "\u0645"
     textColor: {r: 0, g: 0, b: 0, a: 0}
     objectImage: {fileID: 21300000, guid: ddd8db4df0566c64ea4058c2341c1568, type: 3}
-    narator: {fileID: 8300000, guid: d171b158fb2b36249a098d8e4066ad68, type: 3}
+    narator: {fileID: 8300000, guid: 54a31f5455cfe074eb8ab9856dbef792, type: 3}
     background: {fileID: 0}
     animalSound: {fileID: 8300000, guid: a4dc0188310874240b3a78d749e8c99f, type: 3}
   - objectName: "\u0646\u0633\u0631"
@@ -3726,7 +3726,7 @@ MonoBehaviour:
     objectAlias: "\u0647"
     textColor: {r: 0.6397059, g: 0.6397059, b: 0.6397059, a: 1}
     objectImage: {fileID: 21300000, guid: 1e51fb668b2e371429f17220b970c65b, type: 3}
-    narator: {fileID: 8300000, guid: 24fda2a0e5db538449ae376845f60415, type: 3}
+    narator: {fileID: 8300000, guid: 39cf1c368d55f7041a8762922119eb61, type: 3}
   - objectName: "\u0648\u0631\u062F\u0629"
     objectAlias: "\u0648"
     textColor: {r: 0.6397059, g: 0.6397059, b: 0.6397059, a: 1}
