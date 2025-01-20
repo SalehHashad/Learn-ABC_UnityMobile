@@ -2612,7 +2612,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: dc2f29c7c0a986340b97936a7c5ff7b8, type: 3}
   - {fileID: 8300000, guid: 55292fb90805c5840bffeb6dfd4c2fe4, type: 3}
   - {fileID: 8300000, guid: 1249ef1e343a22c418f2035372ab05ff, type: 3}
-  mockSound: {fileID: 8300000, guid: c6c928937719688429c33c785d03d7ea, type: 3}
+  mockSound: {fileID: 0}
 --- !u!1 &695837377
 GameObject:
   m_ObjectHideFlags: 0
@@ -4355,7 +4355,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: dc2f29c7c0a986340b97936a7c5ff7b8, type: 3}
   - {fileID: 8300000, guid: 55292fb90805c5840bffeb6dfd4c2fe4, type: 3}
   - {fileID: 8300000, guid: 1249ef1e343a22c418f2035372ab05ff, type: 3}
-  mockSound: {fileID: 8300000, guid: c6c928937719688429c33c785d03d7ea, type: 3}
+  mockSound: {fileID: 0}
 --- !u!114 &1241904042
 MonoBehaviour:
   m_ObjectHideFlags: 0

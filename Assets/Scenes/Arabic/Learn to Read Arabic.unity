@@ -545,7 +545,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.17064972, y: 0.16665778}
   m_AnchorMax: {x: 0.83529955, y: 0.8266578}
-  m_AnchoredPosition: {x: -0.5000076, y: 0.5}
+  m_AnchoredPosition: {x: -0.50001526, y: 0.5}
   m_SizeDelta: {x: 0, y: 0.70000076}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &229322996
@@ -1057,6 +1057,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   backtoScene: Submenu Select
+  fromIndex: 0
+  toIndex: 27
+  isArabic: 0
   prevButton: {fileID: 1364924997}
   nextButton: {fileID: 19388202}
   Letter: {fileID: 1028817813}
@@ -1991,6 +1994,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   backtoScene: Submenu Select
+  fromIndex: 0
+  toIndex: 27
+  isArabicText: 0
   prevButton: {fileID: 1205886911}
   nextButton: {fileID: 1728157423}
   upperCase: {fileID: 630276840}
@@ -2049,6 +2055,8 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 3c672e17903b040a7b17a5d392534ce4, type: 3}
   - {fileID: 8300000, guid: f8d45579fbed3429e8ab61879d83861f, type: 3}
   - {fileID: 8300000, guid: 9e5b0981f7cfc44ff9b0e6718aaf004e, type: 3}
+  upperCaseText: {fileID: 0}
+  lowerCaseText: {fileID: 0}
 --- !u!82 &1046214062
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2232,6 +2240,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 143764, guid: 4d272b60913910341a08db9d5849e562, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 161390, guid: 4d272b60913910341a08db9d5849e562, type: 3}
       propertyPath: m_Name
       value: CanvasForBack
@@ -2716,6 +2728,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   backtoScene: Submenu Select
+  fromIndex: 0
+  toIndex: 27
   animalImage: {fileID: 1198620475}
   tapForSound: {fileID: 2026859598}
   prevButton: {fileID: 217814121}
@@ -3446,7 +3460,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.3052294, y: 0.7262481}
   m_AnchorMax: {x: 0.6945965, y: 0.852168}
-  m_AnchoredPosition: {x: -0.14997864, y: 25}
+  m_AnchoredPosition: {x: -0.14996338, y: 25}
   m_SizeDelta: {x: 0.9, y: 0.8999996}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2025945228
@@ -3523,7 +3537,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.3052294, y: 0.8676641}
   m_AnchorMax: {x: 0.6945965, y: 0.97141606}
-  m_AnchoredPosition: {x: -0.30000305, y: -248.07532}
+  m_AnchoredPosition: {x: -0.2999878, y: -248.07532}
   m_SizeDelta: {x: 0.6, y: 190.1319}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2026859598
@@ -3767,7 +3781,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &2107301040
 Animator:
   serializedVersion: 5
