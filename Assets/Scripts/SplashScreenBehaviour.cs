@@ -34,4 +34,8 @@ public class SplashScreenBehaviour : MonoBehaviour
 	{
 		Application.LoadLevel (goToScene);
 	}
+    public void loadLevel2()
+    {
+        Application.LoadLevel(goToScene);
+    }
 }

@@ -16,8 +16,8 @@ public class QuizManager : GameParent
 	public GameObject DropZonePanel, ShuffledLetterPanel;
 	public CongratzUIButtonGroup congratzUI;
 	public List<QuizAlphabet> quizList = new List<QuizAlphabet> ();
-
-	AudioSource source;
+    Vector3 vector3 = new Vector3(0, 0, 0);
+    AudioSource source;
 	List<Dropzone> dropZoneList = new List<Dropzone> ();
 	List<LetterTile> answerShuffleList = new List<LetterTile> ();
 
@@ -62,13 +62,15 @@ public class QuizManager : GameParent
 
 			dropZoneList.Add (dropzoneTemp);
 			answerShuffleList.Add (temp);
-		}
+
+            temp.transform.localPosition = vector3;
+            dropzoneTemp.transform.localPosition = vector3;
+        }
 
 		answerShuffleList = FisherYatesCardDeckShuffle (answerShuffleList);
 		foreach (LetterTile l in answerShuffleList) {
 			l.transform.SetParent (ShuffledLetterPanel.transform);
 			l.transform.localScale = Vector3.one;
-
 			////////////////////
 			//l.transform.GetComponent<Text>().font = font;
 		}

@@ -16,6 +16,7 @@ public class Dropzone : MonoBehaviour, IDropHandler
         if (dragObj.tag == "Letter" &&
             compareAnswer(dragObj.GetComponent<LetterTile>().alphabetLetter))
         {
+            
             dragObj.GetComponent<LetterTile>().setParentPos(this.transform);
         }
         else
