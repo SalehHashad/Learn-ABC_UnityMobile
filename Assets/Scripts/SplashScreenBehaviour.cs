@@ -2,6 +2,7 @@
 
 using UnityEngine;
 using System.Collections;
+using Photon.Pun;
 
 public class SplashScreenBehaviour : MonoBehaviour
 {
@@ -17,7 +18,7 @@ public class SplashScreenBehaviour : MonoBehaviour
 		source.clip = splashSound;
 		source.Play ();
 		Sing.gm.ResetTime ();
-		Invoke ("loadLevel", splashSound.length);
+		//Invoke ("loadLevel", splashSound.length);
 		Debug.Log ("Tulaib");
 	}
 
@@ -25,17 +26,19 @@ public class SplashScreenBehaviour : MonoBehaviour
 	{
 		if (Input.GetMouseButtonUp (0)) {
 			CancelInvoke ();
-			loadLevel ();
+			loadLevel();
 		}
 		source.volume = soundCurve.Evaluate (source.time / splashSound.length);
 	}
 
 	private void loadLevel ()
 	{
-		Application.LoadLevel (goToScene);
+		PhotonNetwork.LoadLevel(goToScene);
+		//Application.LoadLevel(goToScene);
 	}
     public void loadLevel2()
     {
-        Application.LoadLevel(goToScene);
-    }
+		PhotonNetwork.LoadLevel(goToScene);
+		//Application.LoadLevel(goToScene);
+	}
 }

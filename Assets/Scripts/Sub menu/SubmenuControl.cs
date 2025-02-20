@@ -72,24 +72,24 @@ public class SubmenuControl : MonoBehaviour
                     case SubMenuType.Puzzle:
                         ButtonCloning(puzzle);
                         break;
-                    //case SubMenuType.englishNumbers:
-                    //    ButtonCloning(learnNumbers_English);
-                    //    break;
-                    //case SubMenuType.arabicNumbers:
-                    //    ButtonCloning(learnNumbers_Arabic);
-                    //    break;
+                        //case SubMenuType.englishNumbers:
+                        //    ButtonCloning(learnNumbers_English);
+                        //    break;
+                        //case SubMenuType.arabicNumbers:
+                        //    ButtonCloning(learnNumbers_Arabic);
+                        //    break;
 
                 }
             }
 
-            CheckScenes(MenuButtonsScript.IS_ARABIC);
+            CheckScenes(MenuButtonsScript1.IS_ARABIC);
 
         }
         else
         {
-            if (!MenuButtonsScript.IS_NUMBERS)
+            if (!MenuButtonsScript1.IS_NUMBERS)
             {
-                if (MenuButtonsScript.IS_ARABIC == true)
+                if (MenuButtonsScript1.IS_ARABIC == true)
                 {
                     ButtonCloningForChoices(Chars_Arabic);
                 }
@@ -100,7 +100,7 @@ public class SubmenuControl : MonoBehaviour
             }
             else
             {
-                if (MenuButtonsScript.IS_ARABIC == true)
+                if (MenuButtonsScript1.IS_ARABIC == true)
                 {
                     ButtonCloning(learnNumbers_Arabic);
                     //ButtonCloningForChoices(learnNumbers_Arabic);
@@ -114,7 +114,7 @@ public class SubmenuControl : MonoBehaviour
             }
 
         }
-       
+
         //AdmobManager.bannerShow(false);
     }
 
@@ -135,8 +135,8 @@ public class SubmenuControl : MonoBehaviour
 
             temp.GetComponent<SubmenuButtonScript>().miniGameID = i;
 
-            if (temp.transform.localScale == new Vector3(48, 48, 48))
-                temp.transform.localScale = Vector3.one;
+            //if (temp.transform.localScale == new Vector3(48, 48, 48))
+            //    temp.transform.localScale = Vector3.one;
 
         }
     }
@@ -147,7 +147,7 @@ public class SubmenuControl : MonoBehaviour
         {
             temp = Instantiate(submenuButton, transform.position, transform.rotation) as Button;
             temp.transform.SetParent(transform);
-            temp.transform.GetChild(0).GetComponent<Text>().text = ArabicFixerTool.FixLine( buttonName[i]);
+            temp.transform.GetChild(0).GetComponent<Text>().text = ArabicFixerTool.FixLine(buttonName[i]);
             temp.transform.GetChild(0).GetComponent<Text>().font = textFont;
 
             temp.gameObject.name = buttonName[i] + " Button";
@@ -226,9 +226,9 @@ public class SubmenuControl : MonoBehaviour
         //    }
         //}
 
-        CheckScenes(MenuButtonsScript.IS_ARABIC);
+        CheckScenes(MenuButtonsScript1.IS_ARABIC);
     }
-    void CheckScenes (bool isArabic)
+    void CheckScenes(bool isArabic)
     {
 
         //switch (menuType)
@@ -246,7 +246,7 @@ public class SubmenuControl : MonoBehaviour
         //        break;
         //}
 
-           
+
 
         if (isArabic == false)
         {
@@ -302,10 +302,10 @@ public class SubmenuControl : MonoBehaviour
                         ButtonCloning(puzzle_Arabic);
                         break;
                     case SubMenuType.FindCorrectImage:
-                        Application.LoadLevel("Find the Answer2");
+                        Application.LoadLevel("Find the Answer2 1");
                         break;
                     case SubMenuType.Puzzle2:
-                        Application.LoadLevel("Puzzle2");
+                        Application.LoadLevel("Puzzle2 1");
                         break;
                     case SubMenuType.arabicNumbers:
                         ButtonCloning(learnNumbers_Arabic);
@@ -313,7 +313,7 @@ public class SubmenuControl : MonoBehaviour
                 }
             }
         }
-       
+
     }
     void Update()
     {

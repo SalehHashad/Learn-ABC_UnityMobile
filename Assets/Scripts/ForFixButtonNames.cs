@@ -11,7 +11,8 @@ public class ForFixButtonNames : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        this.GetComponentInChildren<Text>().text = ArabicFixerTool.FixLine(buttonName);
+        if(this.GetComponentInChildren<Text>())
+            this.GetComponentInChildren<Text>().text = ArabicFixerTool.FixLine(buttonName);
 
     }
 

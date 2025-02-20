@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7336e685c9d81874d9e7bf20e75e8734
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299594
+  packageName: LowPoly School
+  packageVersion: 1.0
+  assetPath: Assets/TirgamesAssets/PolyWorld/Shared/Scripts/TGPolyAreasPlayer.cs
+  uploadId: 712569
