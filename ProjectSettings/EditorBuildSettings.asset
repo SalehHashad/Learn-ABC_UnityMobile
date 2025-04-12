@@ -5,123 +5,124 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Splash Screen.unity
     guid: e945167c224d2a847940bc30f7337d05
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Menu List.unity
     guid: 708619b3df9cbbb46ab938bd77e54549
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Find the Answer.unity
     guid: 7701a9e1b107d4a499cc384c480eaf94
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Learn to Read.unity
     guid: 4e612d9e3a113f348bf25bb1e7a2f497
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Learn to Write.unity
     guid: c803558620283ab44b70ae52a18193e7
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Patterns.unity
     guid: 674a5853a93fbf647b03688928b453c8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Puzzle.unity
     guid: 6903ed6b4ce7632408cb414c06705b81
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Puzzle00.unity
     guid: 2c9c58be15a1ac8489e3bb79f8aeaf65
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Quiz.unity
     guid: e6896e7ba301bb34384237dc9cd48276
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Splash Screen 1.unity
     guid: 839b5063fb8959a4dac9af2379e1f965
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Submenu Select.unity
     guid: 75c6e43c6a9448144856c8cb134b1eae
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/arabic Scene/Find the Answer2.unity
     guid: 6c21569ce50c33d42be0a05da1c26e90
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/arabic Scene/Learn to Read2.unity
     guid: af2dc3b7978e353439a20fed1c423dd8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/arabic Scene/Learn to Write2.unity
     guid: bbcbad89d30fa004898442e3f35a6b35
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/arabic Scene/Puzzle2.unity
     guid: c8822cadfe95f004984f9f8ea771efcb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Puzzle Numbers Arabic.unity
     guid: 7b5a4ded607a3024eb32b8e845e77b74
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Puzzle Numbers English.unity
     guid: ad9173fbbe7e11c4baf76725f3d525bf
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Learn to Write Numbers2.unity
     guid: b464ababc2ee47342a7034a3905d0cf8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Learn to Write Numbers.unity
     guid: d414b8dc9a00d8d46b95dbb86c6632b9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Splash Screen 2.unity
     guid: 3e205c8eb35f7924aa947452e8426bcd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Menu List 1.unity
     guid: c3e03f2744af0ff4eb7771cd1c52944d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Find the Answer 1.unity
     guid: 68ef20c7cf7f275459d829e9ca8e0e49
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Find the Answer2 1.unity
     guid: 17ba8af26b6df374aab7f3a193a69f87
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Learn to Read 1.unity
     guid: 7e5d4331dbb8d924991d322a43139a61
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Learn to Read2 1.unity
     guid: 45c03d911c2a3814eba327866776ba94
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Learn to Write 1.unity
     guid: 955df7fc6ca40df44aac7488cb7960f9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Learn to Write Numbers2 1.unity
     guid: 9b0c7257c0df3344d9c1adecd40bdbf6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Learn to Write2 1.unity
     guid: a5d9b22583e48e546a52421d20ea6a2f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Puzzle 1.unity
     guid: 4d031715140087944980e61ab778895b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Puzzle Numbers Arabic 1.unity
     guid: d9ab2b3bd9214c1448e93335dcb675dd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Puzzle Numbers English 1.unity
     guid: fb52036c77f092e44ae811c6498ac5af
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Puzzle00 1.unity
     guid: 73100afb2dd35ff4a9a6c58e4b15e13e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Puzzle2 1.unity
     guid: 907a51ea1105b5d49816ffc14455e49a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Quiz 1.unity
     guid: 843424ff573147748ba0a0b85e868986
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Menu List Arabic Subject.unity
     guid: 48ab0ccd0cf669048b88d6cd44efd7d0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Menu List English Subject.unity
     guid: 03f200fc6ad6331429e02e7836947475
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Menu List Math English Subject.unity
     guid: 550f0864e43c14640b0a20444f1dbaf6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VR Scenes/Submenu Select 1.unity
     guid: b0cc295115481be46a0d5ac11586d048
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 14c26621eb664d845809e0f255907599, type: 2}
+    com.unity.renderstreaming.settings: {fileID: 11400000, guid: 039337c008e9a5c44a60f957eae3e450, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 909a8bfca0aa1d1409890dc34a0346ae, type: 2}

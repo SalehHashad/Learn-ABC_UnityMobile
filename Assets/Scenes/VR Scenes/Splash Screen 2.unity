@@ -219,6 +219,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetRoomName: DefaultRoom
   roomFound: 0
+  buttons:
+  - {fileID: 487666597}
 --- !u!4 &258279835
 Transform:
   m_ObjectHideFlags: 0

@@ -26,7 +26,7 @@ public class SplashScreenBehaviour : MonoBehaviour
 	{
 		if (Input.GetMouseButtonUp (0)) {
 			CancelInvoke ();
-			loadLevel();
+			//loadLevel();
 		}
 		source.volume = soundCurve.Evaluate (source.time / splashSound.length);
 	}

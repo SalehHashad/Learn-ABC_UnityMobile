@@ -3,13 +3,16 @@ using Photon.Realtime;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class NetworkManager : MonoBehaviourPunCallbacks
 {
     [SerializeField] string targetRoomName;
     [SerializeField] bool roomFound = false;
+    [SerializeField] List<Button> buttons;
     void Start()
     {
+        DesActivateInteractableForButtons();
         PhotonNetwork.ConnectUsingSettings(); // Connect to Photon servers
     }
 
@@ -42,6 +45,7 @@ public class NetworkManager : MonoBehaviourPunCallbacks
             yield return new WaitForSeconds(1f);
         }
         Debug.Log($"roomFound {roomFound}");
+        ActivateInteractableForButtons();
         PhotonNetwork.JoinRoom(targetRoomName);
     }
     public override void OnRoomListUpdate(List<RoomInfo> roomList)
@@ -76,6 +80,18 @@ public class NetworkManager : MonoBehaviourPunCallbacks
                Application.platform == RuntimePlatform.LinuxPlayer ||
                Application.platform == RuntimePlatform.OSXPlayer;
     }
-
-
+    private void ActivateInteractableForButtons()
+    {
+        foreach (Button button in buttons)
+        {
+            button.interactable = true;
+        }
+    }
+    private void DesActivateInteractableForButtons()
+    {
+        foreach (Button button in buttons)
+        {
+            button.interactable = false;
+        }
+    }
 }

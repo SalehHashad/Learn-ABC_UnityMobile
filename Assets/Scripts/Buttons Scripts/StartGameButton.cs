@@ -15,11 +15,23 @@ public class StartGameButton : MonoBehaviourPun
     private void OnClicked()
     {
         if (PhotonNetwork.IsMasterClient)
+        {
+            Debug.Log("IsMasterClient");
             photonView.RPC("LoadNextLevel", RpcTarget.All);
+        }
+        else
+            Debug.Log("Is Not MasterClient");
+
     }
     [PunRPC]
     private void LoadNextLevel()
     {
-        PhotonNetwork.LoadLevel(FindObjectOfType<SplashScreenBehaviour>().goToScene);
+        if (FindObjectOfType<SplashScreenBehaviour>())
+        {
+            Debug.Log("FindObjectOfType<SplashScreenBehaviour>() Founded");
+            PhotonNetwork.LoadLevel(FindObjectOfType<SplashScreenBehaviour>().goToScene);
+        }else
+            Debug.Log("FindObjectOfType<SplashScreenBehaviour>() not Found");
+
     }
 }
